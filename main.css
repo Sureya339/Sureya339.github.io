@@ -443,6 +443,11 @@ footer:hover{
       flex-direction: column;
       text-align: center;
     }
+
+    .logo img{
+        width: 10rem;
+        height: auto;
+    }
   
     .menu {
       flex-direction: column;
